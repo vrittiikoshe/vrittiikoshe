@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 🙋🏻‍♀️</h1>
 
 <h3 align="center">
 I'm Vritti Koshe — Data Analyst 📊 | Python Developer 🐍 (Flask) <br>
