@@ -55,8 +55,8 @@ I'm Vritti Koshe — Data Analyst 📊 | Python Developer 🐍 (Flask) <br>
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=dracula&margin-w=8&margin-h=8" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=vrittiikoshe&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=vrittiikoshe&theme=dracula&margin-w=8&margin-h=8" height="150"/>
 </div>
 
 ---
@@ -72,7 +72,8 @@ I'm Vritti Koshe — Data Analyst 📊 | Python Developer 🐍 (Flask) <br>
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vrittiikoshe/vrittiikoshe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vrittiikoshe/vrittiikoshe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vrittiikoshe/vrittiikoshe/output/pacman-contribution-graph.svg">
 </picture>
+
