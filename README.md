@@ -63,7 +63,7 @@ I'm Vritti Koshe — Data Analyst 📊 | Python Developer 🐍 (Flask)(Django) <
 
 <p align="center">
 📊 Passionate about Data Analysis & Visualization <br>
-🐍 Python Developer building Flask Applications <br>
+🐍 Python Developer building Flask/Django Applications <br>
 📈 Turning raw data into meaningful insights <br>
 🚀 Built and deployed real-world projects using Flask <br>
 🌱 Currently learning DSA & improving backend skills
